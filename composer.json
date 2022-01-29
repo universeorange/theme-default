@@ -1,0 +1,16 @@
+{
+    "name" : "universeorange/theme/default",
+    "description" : "Theme for Funda Cms, see https://funda.world for more information about licensing and usage",
+    "type" : "theme",
+    "keywords" : ["cms", "funda", "r3m", "universe", "orange", "theme", "default", "world", "com"],
+    "homepage": "https://funda.world",
+    "license" : "MIT",
+    "authors" : [{
+        "name" : "Remco van der Velde",
+        "email" : "remco@universeorange.com"
+    }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
